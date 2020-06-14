@@ -8,3 +8,4 @@ def num(x):
             return True
 
 print(num(93))
+print(num(32))

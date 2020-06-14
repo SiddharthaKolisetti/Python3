@@ -32,3 +32,4 @@ cal1=Sical(10,5,3);
 print(cal1.Add());
 print(cal1.Divide());
 print(cal1.REminder());
+print(Calculator(10,5).REminder(3))
